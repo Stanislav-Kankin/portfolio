@@ -1,7 +1,7 @@
 # 👋 Привет, я Станислав  
 Python-разработчик, специализирующийся на создании Telegram-ботов, автоматизации HR-процессов, интеграциях с CRM/внешними API и сервисах на базе AI (GPT, Whisper).
 
-Работаю с реальными бизнес-кейсами: документооборот, партнёрские программы, аналитика, генерация коммерческих предложений, классификация запросов, обработка аудио, интеграции с HRlink и Bitrix24.
+Работаю с реальными бизнес-кейсами: документооборот, партнёрские программы, аналитика, генерация коммерческих предложений, классификация запросов, обработка аудио, интеграции с HRlink и Bitrix24 иными.
 
 ---
 
@@ -22,8 +22,8 @@ Python-разработчик, специализирующийся на соз�
 
 ## 🔹 Calculator TG HRlink — калькулятор экономии КЭДО  
 📎 **GitHub:** https://github.com/Stanislav-Kankin/calculator_tg_hrlink  
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](img/image.png)
+![alt text](img/image-1.png)
 
 **Что делает:**  
 Телеграм-бот рассчитывает экономию от перехода на КЭДО, строит графики, сохраняет результаты в БД, делает рассылки.
@@ -35,8 +35,8 @@ Python-разработчик, специализирующийся на соз�
 
 ## 🔹 HRlink КП-Генератор — создание коммерческих предложений  
 📎 **GitHub:** https://github.com/Stanislav-Kankin/kp_hrl_bot  
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](img/image-2.png)
+![alt text](img/image-3.png)
 
 **Что делает:**  
 Генерирует коммерческие предложения (.docx + .pdf) на основе шаблонов и вводимых пользователем данных.
@@ -48,9 +48,9 @@ Python-разработчик, специализирующийся на соз�
 
 ## 🔹 Partner Bot (DealReg, Bitrix24)  
 📎 **GitHub:** https://github.com/Stanislav-Kankin/hrl_partner  
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](img/image-4.png)
+![alt text](img/image-5.png)
+![alt text](img/image-6.png)
 
 
 **Что делает:**  
@@ -63,8 +63,8 @@ Python-разработчик, специализирующийся на соз�
 
 ## 🔹 Random Coffee Bot  
 📎 **GitHub:** https://github.com/Stanislav-Kankin/cofeebot_sb  
-![alt text](image-7.png)
-![alt text](image-8.png)
+![alt text](img/image-7.png)
+![alt text](img/image-8.png)
 
 **Что делает:**  
 Организует случайные «кофе-встречи» между сотрудниками для нетворкинга.
@@ -76,9 +76,9 @@ Python-разработчик, специализирующийся на соз�
 
 ## 🔹 Helper Bot (ofdata API)  
 📎 **GitHub:** https://github.com/Stanislav-Kankin/helper_bot  
-![alt text](image-10.png)
-![alt text](image-9.png)
-![alt text](image-11.png)
+![alt text](img/image-10.png)
+![alt text](img/image-9.png)
+![alt text](img/image-11.png)
 
 
 **Что делает:**  
@@ -91,8 +91,8 @@ Python-разработчик, специализирующийся на соз�
 
 ## 🔹 HRlink Base — классификация текстов и база знаний  
 📎 **GitHub:** https://github.com/Stanislav-Kankin/base_hrlink  
-![alt text](image-12.png)
-![alt text](image-13.png)
+![alt text](img/image-12.png)
+![alt text](img/image-13.png)
 
 
 **Что делает:**  
@@ -105,13 +105,13 @@ Python-разработчик, специализирующийся на соз�
 
 ## 🔹 HRlink Dashboard  
 📎 **GitHub:** https://github.com/Stanislav-Kankin/hrl_dash  
-![alt text](image-14.png)
-![alt text](image-15.png)
-![alt text](image-16.png)
-![alt text](image-17.png)
-![alt text](image-18.png)
-![alt text](image-19.png)
-![alt text](image-20.png)
+![alt text](img/image-14.png)
+![alt text](img/image-15.png)
+![alt text](img/image-16.png)
+![alt text](img/image-17.png)
+![alt text](img/image-18.png)
+![alt text](img/image-19.png)
+![alt text](img/image-20.png)
 
 
 
@@ -126,7 +126,7 @@ Python-разработчик, специализирующийся на соз�
 
 ## 🔹 GPT + Whisper Assistant  
 📎 **GitHub:** https://github.com/Stanislav-Kankin/gpt_whisper  
-![alt text](image-21.png)
+![alt text](img/image-21.png)
 
 
 **Что делает:**  
