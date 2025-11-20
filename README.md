@@ -34,7 +34,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 HRlink КП-Генератор — создание коммерческих предложений  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/kp_hrl_bot_portfolio  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/hrl_partner_porfolio
 ![alt text](img/image-2.png)
 ![alt text](img/image-3.png)
 
@@ -47,7 +47,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 Partner Bot (DealReg, Bitrix24)  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/hrl_partner  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/hrl_partner_porfolio 
 ![alt text](img/image-4.png)
 ![alt text](img/image-5.png)
 ![alt text](img/image-6.png)
@@ -62,7 +62,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 Random Coffee Bot  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/cofeebot_sb  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/koffeebot_sb_portfolio  
 ![alt text](img/image-7.png)
 ![alt text](img/image-8.png)
 
@@ -75,7 +75,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 Helper Bot (ofdata API)  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/helper_bot  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/hepler_bot_portfolio/  
 ![alt text](img/image-10.png)
 ![alt text](img/image-9.png)
 ![alt text](img/image-11.png)
@@ -90,7 +90,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 HRlink Base — классификация текстов и база знаний  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/base_hrlink  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/base_hrlink_portfolio/  
 ![alt text](img/image-12.png)
 ![alt text](img/image-13.png)
 
@@ -104,7 +104,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 HRlink Dashboard  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/hrl_dash  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/hrl_dash_portfolio/
 ![alt text](img/image-14.png)
 ![alt text](img/image-15.png)
 ![alt text](img/image-16.png)
@@ -125,7 +125,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 GPT + Whisper Assistant  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/gpt_whisper  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/gpt_wisper_portfolio 
 ![alt text](img/image-21.png)
 
 
