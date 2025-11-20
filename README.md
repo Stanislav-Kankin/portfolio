@@ -21,7 +21,7 @@ Python-разработчик, специализирующийся на соз�
 # 📂 Избранные проекты
 
 ## 🔹 Calculator TG HRlink — калькулятор экономии КЭДО  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/calculator_tg_hrlink  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/calculator_tg_hrlink_portfolio  
 ![alt text](img/image.png)
 ![alt text](img/image-1.png)
 
