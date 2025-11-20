@@ -34,7 +34,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 HRlink КП-Генератор — создание коммерческих предложений  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/kp_hrl_bot  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/kp_hrl_bot_portfolio  
 ![alt text](img/image-2.png)
 ![alt text](img/image-3.png)
 
