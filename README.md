@@ -21,7 +21,7 @@ Python-разработчик, специализирующийся на соз�
 # 📂 Избранные проекты
 
 ## 🔹 Calculator TG HRlink — калькулятор экономии КЭДО  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/calculator_tg_hrlink_portfolio  
+📎 **GitHub:**  https://github.com/Stanislav-Kankin/calculator_tg_hrlink_portfolio/
 ![alt text](img/image.png)
 ![alt text](img/image-1.png)
 
@@ -34,7 +34,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 HRlink КП-Генератор — создание коммерческих предложений  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/hrl_partner_porfolio
+📎 **GitHub:**  https://github.com/Stanislav-Kankin/hrl_partner_porfolio/
 ![alt text](img/image-2.png)
 ![alt text](img/image-3.png)
 
@@ -62,7 +62,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 Random Coffee Bot  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/koffeebot_sb_portfolio  
+📎 **GitHub:** https://github.com/Stanislav-Kankin/koffeebot_sb_portfolio/ 
 ![alt text](img/image-7.png)
 ![alt text](img/image-8.png)
 
@@ -125,7 +125,7 @@ Python-разработчик, специализирующийся на соз�
 ---
 
 ## 🔹 GPT + Whisper Assistant  
-📎 **GitHub:** https://github.com/Stanislav-Kankin/gpt_wisper_portfolio 
+📎 **GitHub:**  https://github.com/Stanislav-Kankin/gpt_wisper_portfolio/ 
 ![alt text](img/image-21.png)
 
 
